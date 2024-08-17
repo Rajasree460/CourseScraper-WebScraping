@@ -51,8 +51,8 @@ python main.py
 
 - Handle more complex data formats or additional fields.
 - Improve error handling and data validation.
-- Enhance visualizations for better insights.
-  '''
+- Enhance visualizations for better insights.<br>
+'''
 To save this as a `.md` file:
 
 1. Open a text editor (e.g., Notepad, VSCode, or any code editor).
@@ -61,4 +61,5 @@ To save this as a `.md` file:
 
 This README file provides clear instructions on how to use the script, its assumptions, limitations, and potential future enhancements.
 '''
+
 
