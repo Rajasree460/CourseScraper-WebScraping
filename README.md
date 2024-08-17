@@ -59,7 +59,15 @@ python main.py
 2. Paste the content above.
 3. Save the file with the name `README.md`.
 
-This README file provides clear instructions on how to use the script, its assumptions, limitations, and potential future enhancements.
 
+## REFERENCES
+For getting an overview how scrapping takes place: https://www.youtube.com/watch?v=mKxFfjNyj3c
+Beautiful soup documentation:
+https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+pandas and matplotlib documentation:
+https://tanthiamhuat.files.wordpress.com/2018/04/pythondatasciencehandbook.pdf
+
+
+This README file provides clear instructions on how to use the script, its assumptions, limitations, and potential future enhancements.
 
 
