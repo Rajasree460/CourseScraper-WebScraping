@@ -8,7 +8,7 @@ This script is designed to scrape course offerings from a CSV file containing in
 
 ## Requirements
 
-- Python 3.x
+- Python 3.12
 - Pandas
 - Matplotlib
 
