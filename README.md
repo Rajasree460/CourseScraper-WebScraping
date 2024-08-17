@@ -16,3 +16,39 @@ You can install the required packages using pip:
 
 ```bash
 pip install pandas matplotlib
+
+```
+
+# Script Usage
+## Prepare the CSV File
+Ensure that you have a CSV file with columns named College Name, Course Number, and Course Name. The file should be formatted correctly with these columns.
+
+## Save the Script
+
+Save the Python script to a file, e.g., main.py
+
+## Run the Script
+Execute the script from the command line:
+
+```bash
+python main.py
+```
+
+## Assumptions
+
+- The CSV file is correctly formatted with columns `College Name`, `Course Number`, and `Course Name`.
+- Course numbers are numeric or can be coerced into numeric values.
+- Course names are not empty or irrelevant.
+- The script assumes that there are no duplicate entries for the same course.
+
+## Limitations
+
+- The script does not handle missing or incorrect data beyond basic filtering.
+- It assumes that the CSV file is well-formed and does not contain any unexpected formats or characters.
+- The visualization will be basic; more sophisticated visualizations may require additional libraries or custom code.
+
+## Future Enhancements
+
+- Handle more complex data formats or additional fields.
+- Improve error handling and data validation.
+- Enhance visualizations for better insights.
