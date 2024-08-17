@@ -66,7 +66,8 @@ Beautiful soup documentation:
 https://www.crummy.com/software/BeautifulSoup/bs4/doc/
 pandas and matplotlib documentation:
 https://tanthiamhuat.files.wordpress.com/2018/04/pythondatasciencehandbook.pdf
-
+Request documentation:
+https://realpython.com/python-requests/
 
 This README file provides clear instructions on how to use the script, its assumptions, limitations, and potential future enhancements.
 
